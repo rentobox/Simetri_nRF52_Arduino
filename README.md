@@ -4,7 +4,7 @@ This repo contains the custom SIMETRI files that can be used to add board config
 
 ## To use:
 1. Copy this link: https://raw.githubusercontent.com/rentobox/Simetri_nRF52_Arduino/refs/heads/main/package_adafruit_index.json
-2. Open Arduino (Must be Version ).
+2. Open Arduino (Must be Version v1.6.4+).
 3. Go to File > Preferences
 4. Under "Additional boards manager URLs:", paste the link.
 5. Press OK.
