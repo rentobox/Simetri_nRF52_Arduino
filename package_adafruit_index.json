@@ -52,7 +52,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/rentobox/Simetri_nRF52_Arduino/main/simetri_nrf52_1.0.3.zip",
           "archiveFileName": "simetri_nrf52_1.0.3.zip",
-          "checksum": "SHA-256:717dfa128f3f30f5eb1858b39a41d1d1d4bf1fc40ceb319cd45419ff0731a087",
+          "checksum": "SHA-256:e8c8737b623229bb20fd164f4c3f49a949d69bc9e98aee547a3e5f68514ac916",
           "boards": [
             { "name": "SIMETRI52833 Board" }
           ],
