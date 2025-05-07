@@ -1,6 +1,6 @@
 # Simetri_nRF52_Arduino [Board Support Package]
 
-This repo contains the custom SIMETRI files that can be used to add board configurations in the Arduino v1.6.4+ IDE.
+This repo contains the custom SIMETRI files that can be used to add board configurations in the Arduino v1.6.4+ IDE. This is based off the Adafruit Arduino BSP + Booloader repositories.
 
 ## To use:
 1. Copy this link: https://raw.githubusercontent.com/rentobox/Simetri_nRF52_Arduino/refs/heads/main/package_adafruit_index.json
