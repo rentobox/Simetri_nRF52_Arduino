@@ -122,6 +122,19 @@
             { "name": "SIMETRI52833 Board" }
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "Simetri nRF52833 Board",
+          "architecture": "nrf52",
+          "version": "1.1.2",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/rentobox/Simetri_nRF52_Arduino/main/simetri_nrf52_1.1.2.zip",
+          "archiveFileName": "simetri_nrf52_1.1.2.zip",
+          "checksum": "SHA-256:9f1a70ac92a4b09fb9c827f5936b9469fb09bf89568846467efe4c17126762e8",
+          "boards": [
+            { "name": "SIMETRI52833 Board" }
+          ],
+          "toolsDependencies": []
         }
       ]
     }
