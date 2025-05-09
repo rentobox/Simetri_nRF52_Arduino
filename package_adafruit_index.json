@@ -7,7 +7,7 @@
       "email": "rgutierrez@simetri.us",
       "platforms": [
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.0.0",
           "category": "Contributed",
@@ -20,7 +20,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.0.1",
           "category": "Contributed",
@@ -33,7 +33,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.0.2",
           "category": "Contributed",
@@ -46,7 +46,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.0.3",
           "category": "Contributed",
@@ -59,7 +59,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.0.4",
           "category": "Contributed",
@@ -72,7 +72,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.0.5",
           "category": "Contributed",
@@ -85,7 +85,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.0.6",
           "category": "Contributed",
@@ -98,7 +98,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.1.0",
           "category": "Contributed",
@@ -111,7 +111,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.1.1",
           "category": "Contributed",
@@ -124,7 +124,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.1.2",
           "category": "Contributed",
@@ -137,13 +137,26 @@
           "toolsDependencies": []
         },
         {
-          "name": "Simetri nRF52833 Board",
+          "name": "SIMETRI nRF52833 Board",
           "architecture": "nrf52",
           "version": "1.2.0",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/rentobox/Simetri_nRF52_Arduino/main/simetri_nrf52_1.2.0.zip",
           "archiveFileName": "simetri_nrf52_1.2.0.zip",
           "checksum": "SHA-256:da8ab7e5d043b6e0963f63bd27990bc6e50a93b844eb79524139fa4b8c74ffd8",
+          "boards": [
+            { "name": "SIMETRI52833 Board" }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SIMETRI nRF52833 Board",
+          "architecture": "nrf52",
+          "version": "1.2.1",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/rentobox/Simetri_nRF52_Arduino/main/simetri_nrf52_1.2.1.zip",
+          "archiveFileName": "simetri_nrf52_1.2.1.zip",
+          "checksum": "SHA-256:3fdacd3701a2bc40c12d60d19a9ff31ac0ae49f028ee2d930270809036371938",
           "boards": [
             { "name": "SIMETRI52833 Board" }
           ],
